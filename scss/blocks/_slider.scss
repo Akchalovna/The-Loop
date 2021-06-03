@@ -1,6 +1,8 @@
 @import "../vars";
 .slider {
   background-color: $secondary-color;
+}
+  
   &__inner {
     padding-top: 170px;
   }
